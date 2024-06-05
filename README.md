@@ -1,3 +1,3 @@
 # tarunmalviya
 This is my first Git Repository<br>
-author:-tarun malviya
+author:-tarun malviya (ips collage)
